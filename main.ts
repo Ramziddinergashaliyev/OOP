@@ -187,6 +187,27 @@
 // console.log(adding.add(2, 9));
 
 
+//2-misol Bolish
+
+// class Kopaytma{
+//   add(num1:number, num2:number):number
+//   add(num1:any, num2:any):any{
+//     return num1 / num2
+//   }
+// }
+
+// class result extends Kopaytma{
+//   constructor(){
+//     super()
+//   }
+//   add(num1:any, num2:any):any{
+//     return num1 / num2
+//   }
+// }
+
+// let adding:result = new result()
+// console.log(adding.add(18, 9));
+
 
 
 // =====  abstraction  =====
